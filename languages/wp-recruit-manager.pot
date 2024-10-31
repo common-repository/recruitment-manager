@@ -1,0 +1,2001 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recruitment Manager 1.1\n"
+"POT-Creation-Date: 2021-07-15 23:42+0500\n"
+"PO-Revision-Date: 2021-07-15 23:42+0500\n"
+"Last-Translator: \n"
+"Language-Team: CodeWand codewand.cc@gmail.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/Api/Callbacks/JfCallbacks.php:39
+msgid ""
+"Field Name can not be empty and should not be greater than 30 characters"
+msgstr ""
+
+#: inc/Api/Callbacks/JfCallbacks.php:45
+msgid "Field Name can only contain alphabets, numbers and hyphen"
+msgstr ""
+
+#: inc/Api/Callbacks/JfCallbacks.php:80
+msgid "Editing this field will remove values from existing jobs (if any)."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:69 inc/Base/ApplicationController.php:79
+msgid "Job Applications"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:70
+msgid "Application"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:71
+msgid "WPSR Apps"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:72
+msgid "Job Application"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:73 inc/Base/ApplicationController.php:75
+msgid "New Application"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:74
+msgid "Add New Application"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:76
+msgid "Edit Application"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:77
+msgid "View Application"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:78
+msgid "View Applications"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:80
+msgid "Search Applicants"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:81
+msgid "Parent Job:"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:82
+msgid "No applications found."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:83
+msgid "No applications found in Trash."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:140
+#: inc/Base/ApplicationController.php:273
+msgid "You have already applied for this job."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:185
+#: inc/Base/ApplicationController.php:339
+msgid "Your application is submitted"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:192
+#: inc/Base/ApplicationController.php:241
+#: inc/Base/ApplicationController.php:346
+#: inc/Base/ApplicationController.php:1012
+#: inc/Base/ApplicationController.php:1042
+#: inc/Base/ApplicationController.php:1062
+#: inc/Base/ApplicationController.php:1121 inc/Base/AuthController.php:118
+#: inc/Base/AuthController.php:138 inc/Base/AuthController.php:198
+#: inc/Base/AuthController.php:218 inc/Base/AuthController.php:340
+#: inc/Base/AuthController.php:360 inc/Base/AuthController.php:484
+#: inc/Base/AuthController.php:530 inc/Base/InterviewController.php:354
+#: inc/Base/InterviewController.php:392 inc/Base/InterviewController.php:411
+#: inc/Base/InterviewController.php:451 inc/Base/ResumeController.php:523
+#: inc/Base/ResumeController.php:558 inc/Base/ResumeController.php:577
+#: inc/Base/ResumeController.php:785 inc/Base/ResumeController.php:825
+#: inc/Base/ResumeController.php:885 inc/Base/ResumeController.php:945
+#: inc/Base/ResumeController.php:993 inc/Base/ResumeController.php:1047
+msgid "Some Error Occured"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:213
+#, php-format
+msgid "You need to have at least %s experience(s) in your resume."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:216
+#, php-format
+msgid "You need to have at least %s qualification(s) in your resume."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:219
+#, php-format
+msgid "You need to have at least %s achievement(s) in your resume."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:222
+#, php-format
+msgid "You need to have at least %s language(s) in your resume."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:225
+#, php-format
+msgid "You need to have at least %s reference(s) in your resume."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:252 views/admin/job-fields-manager.php:28
+#: views/partials/normal-apply-form.php:12
+msgid "Name"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:253 inc/Base/AuthController.php:235
+#: inc/Base/ResumeController.php:430 inc/Base/ResumeController.php:599
+#: views/admin/resume-pdf.php:23 views/partials/normal-apply-form.php:17
+#: views/resume-form.php:58
+msgid "Email"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:254
+#: inc/Base/ApplicationController.php:1075 inc/Base/ResumeController.php:481
+#: views/partials/normal-apply-form.php:27
+msgid "Message"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:282
+msgid "Only pdf, doc and docx allowed"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:436
+msgid "Applicant"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:437 inc/Base/JobController.php:79
+#: inc/Base/JobController.php:81
+msgid "Job"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:438
+msgid "Resume Overview"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:439 inc/Base/InterviewController.php:60
+#: inc/Base/InterviewController.php:69
+msgid "Interviews"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:440
+#: inc/Base/ApplicationController.php:1018
+#: inc/Base/ApplicationController.php:1077 views/admin/notes-form.php:7
+msgid "Notes"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:441 views/job-applications-list.php:13
+msgid "Applied On"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:542
+#: inc/Base/ApplicationController.php:966
+msgid "Assign Marks"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:546
+#: inc/Base/ApplicationController.php:550 views/admin/question-items.php:11
+msgid "Delete"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:617 inc/Base/ResumeController.php:234
+msgid "Experience keywords.."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:620 inc/Base/ResumeController.php:236
+msgid "Qualification keywords.."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:623 inc/Base/ResumeController.php:238
+msgid "Achievement keywords.."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:626 inc/Base/ResumeController.php:240
+msgid "Language keywords.."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:629 inc/Base/ResumeController.php:242
+msgid "Reference keywords.."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:632
+msgid "Notes keywords.."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:811 inc/Base/ResumeController.php:376
+msgid "Export Resumes"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:812
+msgid "Export Applications"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:965
+#: inc/Base/ApplicationController.php:975
+msgid "Assign Interview"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:967
+msgid "Edit Notes"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:968
+msgid "Email Applicant(s)"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:978
+msgid "Email Applicants"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:1074 inc/Base/ResumeController.php:480
+msgid "Subject"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:1076 inc/Base/ResumeController.php:482
+#: views/admin/email-form.php:29
+msgid "CC"
+msgstr ""
+
+#: inc/Base/ApplicationController.php:1089 inc/Base/ResumeController.php:495
+msgid "Please select some applicant(s) first."
+msgstr ""
+
+#: inc/Base/ApplicationController.php:1117 inc/Base/ResumeController.php:519
+msgid "Email Sent"
+msgstr ""
+
+#: inc/Base/AuthController.php:95
+msgid "Hello "
+msgstr ""
+
+#: inc/Base/AuthController.php:148 views/login-form.php:13
+msgid "Username / Email"
+msgstr ""
+
+#: inc/Base/AuthController.php:149 inc/Base/AuthController.php:236
+#: inc/Base/AuthController.php:494 views/login-form.php:17
+#: views/reset-form.php:13 views/resume-form.php:64
+msgid "Password"
+msgstr ""
+
+#: inc/Base/AuthController.php:166
+msgid "Wrong username or password"
+msgstr ""
+
+#: inc/Base/AuthController.php:171
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: inc/Base/AuthController.php:232 inc/Base/ResumeController.php:597
+#: views/resume-form.php:41
+msgid "First Name"
+msgstr ""
+
+#: inc/Base/AuthController.php:233 inc/Base/ResumeController.php:598
+#: views/resume-form.php:47
+msgid "Last Name"
+msgstr ""
+
+#: inc/Base/AuthController.php:234 views/resume-form.php:53
+msgid "Username"
+msgstr ""
+
+#: inc/Base/AuthController.php:237 inc/Base/AuthController.php:495
+#: views/register-form.php:38 views/reset-form.php:18
+msgid "Retype Password"
+msgstr ""
+
+#: inc/Base/AuthController.php:266
+msgid "An email has been sent to your email with activation link"
+msgstr ""
+
+#: inc/Base/AuthController.php:269
+msgid "Account created successfully."
+msgstr ""
+
+#: inc/Base/AuthController.php:369
+msgid "User email does not exist"
+msgstr ""
+
+#: inc/Base/AuthController.php:392
+msgid "Activation link is sent to your email. Please check email."
+msgstr ""
+
+#: inc/Base/AuthController.php:408
+msgid "Your account is not active"
+msgstr ""
+
+#: inc/Base/AuthController.php:509
+msgid "Code Expired"
+msgstr ""
+
+#: inc/Base/AuthController.php:522
+msgid "Password successfully reset."
+msgstr ""
+
+#: inc/Base/BaseController.php:96
+msgid "Applications"
+msgstr ""
+
+#: inc/Base/InterviewController.php:61 inc/Base/InterviewController.php:63
+#: inc/Base/InterviewController.php:154
+msgid "Interview"
+msgstr ""
+
+#: inc/Base/InterviewController.php:62
+msgid "WPSR Interviews"
+msgstr ""
+
+#: inc/Base/InterviewController.php:64 inc/Base/InterviewController.php:66
+msgid "New Interview"
+msgstr ""
+
+#: inc/Base/InterviewController.php:65
+msgid "Add New Interview"
+msgstr ""
+
+#: inc/Base/InterviewController.php:67
+msgid "Edit Interview"
+msgstr ""
+
+#: inc/Base/InterviewController.php:68
+msgid "View Interview"
+msgstr ""
+
+#: inc/Base/InterviewController.php:70
+msgid "Search Interviews"
+msgstr ""
+
+#: inc/Base/InterviewController.php:71
+msgid "No interviews found."
+msgstr ""
+
+#: inc/Base/InterviewController.php:72
+msgid "No interviews found in Trash."
+msgstr ""
+
+#: inc/Base/InterviewController.php:109 inc/Base/InterviewController.php:110
+#: inc/Base/InterviewController.php:119
+msgid "Interview Type"
+msgstr ""
+
+#: inc/Base/InterviewController.php:111
+msgid "Search Interview Type"
+msgstr ""
+
+#: inc/Base/InterviewController.php:112
+msgid "All Interview Type"
+msgstr ""
+
+#: inc/Base/InterviewController.php:113 inc/Base/InterviewController.php:114
+msgid "Parent Interview Type"
+msgstr ""
+
+#: inc/Base/InterviewController.php:115
+msgid "Edit Interview Type"
+msgstr ""
+
+#: inc/Base/InterviewController.php:116
+msgid "Update Interview Type"
+msgstr ""
+
+#: inc/Base/InterviewController.php:117
+msgid "Add New Interview Type"
+msgstr ""
+
+#: inc/Base/InterviewController.php:118
+msgid "New Interview Type Name"
+msgstr ""
+
+#: inc/Base/InterviewController.php:155 inc/Base/QuestionController.php:54
+#: inc/Base/QuestionController.php:63
+msgid "Questions"
+msgstr ""
+
+#: inc/Base/InterviewController.php:257 inc/Base/JobController.php:366
+#: inc/Base/QuestionController.php:204
+#, php-format
+msgid "Show all %s"
+msgstr ""
+
+#: inc/Base/InterviewController.php:328
+msgid "Please select some application(s) and/or select interview"
+msgstr ""
+
+#: inc/Base/InterviewController.php:340
+msgid "Interview Assigned"
+msgstr ""
+
+#: inc/Base/InterviewController.php:447
+msgid "Marks assigned"
+msgstr ""
+
+#: inc/Base/InterviewController.php:551 inc/Base/QuestionController.php:55
+#: inc/Base/QuestionController.php:57 inc/Base/QuestionController.php:152
+#: inc/Base/QuestionController.php:309 views/admin/question-form.php:9
+msgid "Question"
+msgstr ""
+
+#: inc/Base/InterviewController.php:552
+msgid "Marks"
+msgstr ""
+
+#: inc/Base/InterviewController.php:553
+msgid "Comments"
+msgstr ""
+
+#: inc/Base/JobController.php:78 inc/Base/JobController.php:87
+msgid "All Jobs"
+msgstr ""
+
+#: inc/Base/JobController.php:80
+msgid "Recruitment Manager"
+msgstr ""
+
+#: inc/Base/JobController.php:82 inc/Base/JobController.php:84
+msgid "New Job"
+msgstr ""
+
+#: inc/Base/JobController.php:83
+msgid "Add New Job"
+msgstr ""
+
+#: inc/Base/JobController.php:85
+msgid "Edit Job"
+msgstr ""
+
+#: inc/Base/JobController.php:86
+msgid "View Job"
+msgstr ""
+
+#: inc/Base/JobController.php:88
+msgid "Search Jobs"
+msgstr ""
+
+#: inc/Base/JobController.php:89
+msgid "No jobs found."
+msgstr ""
+
+#: inc/Base/JobController.php:90
+msgid "No jobs found in Trash."
+msgstr ""
+
+#: inc/Base/JobController.php:130 views/admin/settings.php:20
+msgid "Job Options"
+msgstr ""
+
+#: inc/Base/JobController.php:198 views/admin/job-fields.php:2
+#: views/jobs-list-for-taxonomy.php:28 views/partials/job-items.php:26
+#: views/single-content.php:33
+msgid "Min Salary"
+msgstr ""
+
+#: inc/Base/JobController.php:199 views/admin/job-fields.php:8
+#: views/jobs-list-for-taxonomy.php:34 views/partials/job-items.php:32
+#: views/single-content.php:37
+msgid "Max Salary"
+msgstr ""
+
+#: inc/Base/JobController.php:200 views/jobs-list-for-taxonomy.php:42
+#: views/partials/job-items.php:39 views/single-content.php:44
+msgid "Last Date"
+msgstr ""
+
+#: inc/Base/JobController.php:328
+msgid "You need to be logged in to view job applications"
+msgstr ""
+
+#: inc/Base/JobController.php:466
+msgid "Export Jobs"
+msgstr ""
+
+#: inc/Base/JobFieldController.php:51 inc/Base/JobFieldController.php:52
+msgid "Job Fields"
+msgstr ""
+
+#: inc/Base/JobFieldController.php:117
+msgid "Field Name"
+msgstr ""
+
+#: inc/Base/JobFieldController.php:130
+msgid "Show In Menu"
+msgstr ""
+
+#: inc/Base/JobFieldController.php:143 views/admin/job-fields-manager.php:30
+msgid "Front End Filters"
+msgstr ""
+
+#: inc/Base/JobFieldController.php:156 views/admin/job-fields-manager.php:31
+msgid "Front End Values"
+msgstr ""
+
+#: inc/Base/JobFieldController.php:169
+msgid "Display In Admin Job List"
+msgstr ""
+
+#: inc/Base/JobFieldController.php:182 views/admin/job-fields-manager.php:70
+msgid "Active"
+msgstr ""
+
+#: inc/Base/QuestionController.php:56
+msgid "WPSR Questions"
+msgstr ""
+
+#: inc/Base/QuestionController.php:58 inc/Base/QuestionController.php:60
+msgid "New Question"
+msgstr ""
+
+#: inc/Base/QuestionController.php:59
+msgid "Add New Question"
+msgstr ""
+
+#: inc/Base/QuestionController.php:61
+msgid "Edit Question"
+msgstr ""
+
+#: inc/Base/QuestionController.php:62
+msgid "View Question"
+msgstr ""
+
+#: inc/Base/QuestionController.php:64
+msgid "Search Questions"
+msgstr ""
+
+#: inc/Base/QuestionController.php:65
+msgid "No questions found."
+msgstr ""
+
+#: inc/Base/QuestionController.php:66
+msgid "No questions found in Trash."
+msgstr ""
+
+#: inc/Base/QuestionController.php:107 inc/Base/QuestionController.php:108
+#: inc/Base/QuestionController.php:117
+msgid "Question Type"
+msgstr ""
+
+#: inc/Base/QuestionController.php:109
+msgid "Search Question Type"
+msgstr ""
+
+#: inc/Base/QuestionController.php:110
+msgid "All Question Type"
+msgstr ""
+
+#: inc/Base/QuestionController.php:111 inc/Base/QuestionController.php:112
+msgid "Parent Question Type"
+msgstr ""
+
+#: inc/Base/QuestionController.php:113
+msgid "Edit Question Type"
+msgstr ""
+
+#: inc/Base/QuestionController.php:114
+msgid "Update Question Type"
+msgstr ""
+
+#: inc/Base/QuestionController.php:115
+msgid "Add New Question Type"
+msgstr ""
+
+#: inc/Base/QuestionController.php:116
+msgid "New Question Type Name"
+msgstr ""
+
+#: inc/Base/QuestionController.php:308 inc/Base/ResumeController.php:1007
+#: inc/Base/ResumeController.php:1061 views/admin/question-form.php:5
+msgid "Type"
+msgstr ""
+
+#: inc/Base/QuestionController.php:333
+msgid "Question Added"
+msgstr ""
+
+#: inc/Base/QuestionController.php:337 inc/Base/QuestionController.php:351
+msgid "Some error occured"
+msgstr ""
+
+#: inc/Base/QuestionController.php:357
+msgid "Question Deleted"
+msgstr ""
+
+#: inc/Base/ResumeController.php:78 inc/Base/ResumeController.php:87
+msgid "Resumes"
+msgstr ""
+
+#: inc/Base/ResumeController.php:79 inc/Base/ResumeController.php:81
+msgid "Resume"
+msgstr ""
+
+#: inc/Base/ResumeController.php:80
+msgid "WPSR Resumes"
+msgstr ""
+
+#: inc/Base/ResumeController.php:82 inc/Base/ResumeController.php:84
+msgid "New Resume"
+msgstr ""
+
+#: inc/Base/ResumeController.php:83
+msgid "Add New Resume"
+msgstr ""
+
+#: inc/Base/ResumeController.php:85 views/partials/resume-apply-form.php:17
+msgid "Edit Resume"
+msgstr ""
+
+#: inc/Base/ResumeController.php:86
+msgid "View Resume"
+msgstr ""
+
+#: inc/Base/ResumeController.php:88
+msgid "Search Resumes"
+msgstr ""
+
+#: inc/Base/ResumeController.php:89
+msgid "No resumes found."
+msgstr ""
+
+#: inc/Base/ResumeController.php:90
+msgid "No resumes found in Trash."
+msgstr ""
+
+#: inc/Base/ResumeController.php:131
+msgid "User"
+msgstr ""
+
+#: inc/Base/ResumeController.php:132
+msgid "Biography"
+msgstr ""
+
+#: inc/Base/ResumeController.php:133 views/resume-form.php:8
+msgid "Experience"
+msgstr ""
+
+#: inc/Base/ResumeController.php:134 views/resume-form.php:13
+msgid "Qualification"
+msgstr ""
+
+#: inc/Base/ResumeController.php:135 views/resume-form.php:18
+msgid "Achievement"
+msgstr ""
+
+#: inc/Base/ResumeController.php:136 inc/Base/ResumeController.php:956
+#: views/partials/resume-language.php:18 views/resume-form.php:23
+msgid "Language"
+msgstr ""
+
+#: inc/Base/ResumeController.php:137
+msgid "Reference"
+msgstr ""
+
+#: inc/Base/ResumeController.php:138
+msgid "Created On"
+msgstr ""
+
+#: inc/Base/ResumeController.php:436
+msgid "Email Users"
+msgstr ""
+
+#: inc/Base/ResumeController.php:483
+msgid "BCC"
+msgstr ""
+
+#: inc/Base/ResumeController.php:600 views/admin/resume-pdf.php:25
+msgid "Identity"
+msgstr ""
+
+#: inc/Base/ResumeController.php:601 views/admin/resume-pdf.php:24
+#: views/resume-form.php:69
+msgid "Phone"
+msgstr ""
+
+#: inc/Base/ResumeController.php:602 views/admin/resume-pdf.php:26
+#: views/resume-form.php:81
+msgid "Address"
+msgstr ""
+
+#: inc/Base/ResumeController.php:603 views/resume-form.php:87
+msgid "City"
+msgstr ""
+
+#: inc/Base/ResumeController.php:604 views/resume-form.php:93
+msgid "State"
+msgstr ""
+
+#: inc/Base/ResumeController.php:605 views/resume-form.php:99
+msgid "Country"
+msgstr ""
+
+#: inc/Base/ResumeController.php:606 views/resume-form.php:105
+msgid "Date Of Birth"
+msgstr ""
+
+#: inc/Base/ResumeController.php:607 views/resume-form.php:111
+msgid "Gender"
+msgstr ""
+
+#: inc/Base/ResumeController.php:608 views/admin/resume-pdf.php:44
+#: views/resume-form.php:125
+msgid "Short Bio"
+msgstr ""
+
+#: inc/Base/ResumeController.php:639
+msgid "(Only pdf, doc and docx allowed for resume/cv)"
+msgstr ""
+
+#: inc/Base/ResumeController.php:669
+msgid "Profile Updated"
+msgstr ""
+
+#: inc/Base/ResumeController.php:684
+msgid "Only pdf, doc or docx is allowed for cv."
+msgstr ""
+
+#: inc/Base/ResumeController.php:687
+msgid "Only jpg, gif or png is allowed for avatar."
+msgstr ""
+
+#: inc/Base/ResumeController.php:705
+msgid "Avatar width and/or height can not be greater than ."
+msgstr ""
+
+#: inc/Base/ResumeController.php:840 inc/Base/ResumeController.php:900
+#: inc/Base/ResumeController.php:1006 inc/Base/ResumeController.php:1060
+#: views/partials/resume-reference.php:17
+msgid "Title"
+msgstr ""
+
+#: inc/Base/ResumeController.php:841 views/partials/resume-experience.php:23
+msgid "Company"
+msgstr ""
+
+#: inc/Base/ResumeController.php:842 views/partials/resume-experience.php:29
+msgid "Salary"
+msgstr ""
+
+#: inc/Base/ResumeController.php:843 inc/Base/ResumeController.php:904
+#: views/partials/resume-experience.php:35
+#: views/partials/resume-qualification.php:42
+msgid "From"
+msgstr ""
+
+#: inc/Base/ResumeController.php:844 inc/Base/ResumeController.php:905
+#: views/partials/resume-experience.php:41
+#: views/partials/resume-qualification.php:48
+msgid "To"
+msgstr ""
+
+#: inc/Base/ResumeController.php:845 inc/Base/ResumeController.php:1009
+#: views/partials/resume-achievement.php:32
+msgid "Description"
+msgstr ""
+
+#: inc/Base/ResumeController.php:870
+msgid "Resume Experience Updated"
+msgstr ""
+
+#: inc/Base/ResumeController.php:870 inc/Base/ResumeController.php:930
+#: inc/Base/ResumeController.php:978 inc/Base/ResumeController.php:1032
+#: inc/Base/ResumeController.php:1086
+msgid "All Sections Removed"
+msgstr ""
+
+#: inc/Base/ResumeController.php:901 views/partials/resume-qualification.php:24
+msgid "Institution"
+msgstr ""
+
+#: inc/Base/ResumeController.php:902 views/partials/resume-qualification.php:30
+msgid "Percentage / CGPA / Marks"
+msgstr ""
+
+#: inc/Base/ResumeController.php:903 views/partials/resume-qualification.php:38
+msgid "Out of"
+msgstr ""
+
+#: inc/Base/ResumeController.php:930
+msgid "Resume Qualification Updated"
+msgstr ""
+
+#: inc/Base/ResumeController.php:957 views/partials/resume-language.php:23
+msgid "Proficiency"
+msgstr ""
+
+#: inc/Base/ResumeController.php:978
+msgid "Resume Language Updated"
+msgstr ""
+
+#: inc/Base/ResumeController.php:1008 inc/Base/ResumeController.php:1062
+#: views/partials/resume-achievement.php:27
+msgid "Date"
+msgstr ""
+
+#: inc/Base/ResumeController.php:1032
+msgid "Resume Achievements Updated"
+msgstr ""
+
+#: inc/Base/ResumeController.php:1063 views/partials/normal-apply-form.php:22
+#: views/partials/resume-reference.php:32
+msgid "Contact"
+msgstr ""
+
+#: inc/Base/ResumeController.php:1086
+msgid "Resume References Updated"
+msgstr ""
+
+#: inc/Base/SettingsController.php:213
+msgid "Site Name"
+msgstr ""
+
+#: inc/Base/SettingsController.php:220 inc/Base/SettingsController.php:246
+msgid "e.g. Recruitment Manager"
+msgstr ""
+
+#: inc/Base/SettingsController.php:226
+msgid "From Email Address"
+msgstr ""
+
+#: inc/Base/SettingsController.php:226
+msgid ""
+"This email should include your actual domain name like info@yourdomain.com"
+msgstr ""
+
+#: inc/Base/SettingsController.php:233 inc/Base/SettingsController.php:259
+msgid "e.g. hr@example.com"
+msgstr ""
+
+#: inc/Base/SettingsController.php:239
+msgid "From Name for mail send"
+msgstr ""
+
+#: inc/Base/SettingsController.php:252
+msgid "Admin Email Address"
+msgstr ""
+
+#: inc/Base/SettingsController.php:252
+msgid "For recieving notifications."
+msgstr ""
+
+#: inc/Base/SettingsController.php:265
+msgid "Normal Apply Form Title"
+msgstr ""
+
+#: inc/Base/SettingsController.php:272
+msgid "e.g. Apply for this job"
+msgstr ""
+
+#: inc/Base/SettingsController.php:278
+msgid "Purchase Code"
+msgstr ""
+
+#: inc/Base/SettingsController.php:291
+msgid "Enable Questions List in Main Menu"
+msgstr ""
+
+#: inc/Base/SettingsController.php:304
+msgid "Delete plugin data on uninstall"
+msgstr ""
+
+#: inc/Base/SettingsController.php:319
+msgid "Jobs Per Page"
+msgstr ""
+
+#: inc/Base/SettingsController.php:332
+msgid "Jobs Page Slug"
+msgstr ""
+
+#: inc/Base/SettingsController.php:332
+msgid "e.g. \"job-posts\"."
+msgstr ""
+
+#: inc/Base/SettingsController.php:345
+msgid "Job Salary Currency"
+msgstr ""
+
+#: inc/Base/SettingsController.php:358
+msgid "Job List Description Length"
+msgstr ""
+
+#: inc/Base/SettingsController.php:371
+msgid "Display Text Search Filter"
+msgstr ""
+
+#: inc/Base/SettingsController.php:384
+msgid "Display Salary Search Filters"
+msgstr ""
+
+#: inc/Base/SettingsController.php:397 inc/Base/SettingsController.php:410
+msgid "Display Salary"
+msgstr ""
+
+#: inc/Base/SettingsController.php:397 inc/Base/SettingsController.php:423
+msgid "In Listing Page"
+msgstr ""
+
+#: inc/Base/SettingsController.php:410 inc/Base/SettingsController.php:436
+msgid "In Detail Page"
+msgstr ""
+
+#: inc/Base/SettingsController.php:423 inc/Base/SettingsController.php:436
+msgid "Display Last Date"
+msgstr ""
+
+#: inc/Base/SettingsController.php:449
+msgid "Hide Job After Last Date"
+msgstr ""
+
+#: inc/Base/SettingsController.php:462
+msgid "Enable Job Storage"
+msgstr ""
+
+#: inc/Base/SettingsController.php:462
+msgid "If disabled, Application details will only be emailed and not recorded."
+msgstr ""
+
+#: inc/Base/SettingsController.php:475
+msgid "Enable Job Applications"
+msgstr ""
+
+#: inc/Base/SettingsController.php:475
+msgid ""
+"If disabled, Neither form nor apply button will appear under the job detail "
+"page."
+msgstr ""
+
+#: inc/Base/SettingsController.php:488
+msgid "Enable Apply with Resume Only"
+msgstr ""
+
+#: inc/Base/SettingsController.php:488
+msgid ""
+"If enabled, user will be required to login before applying. If disabled "
+"\"simple job apply form\" will appear."
+msgstr ""
+
+#: inc/Base/SettingsController.php:503
+msgid "Enable Resume Edit Under Job Detail"
+msgstr ""
+
+#: inc/Base/SettingsController.php:516
+msgid "Enable Static Resume"
+msgstr ""
+
+#: inc/Base/SettingsController.php:516
+msgid "Recommended when resume making is optional for users."
+msgstr ""
+
+#: inc/Base/SettingsController.php:529
+msgid "Avatar Max Width"
+msgstr ""
+
+#: inc/Base/SettingsController.php:542
+msgid "Avatar Max Height"
+msgstr ""
+
+#: inc/Base/SettingsController.php:555
+msgid "Enable Applicants to Download Resume PDF"
+msgstr ""
+
+#: inc/Base/SettingsController.php:568
+msgid "Enable Experience Tab"
+msgstr ""
+
+#: inc/Base/SettingsController.php:581
+msgid "Minimum No. Of Experiences Required to Apply"
+msgstr ""
+
+#: inc/Base/SettingsController.php:594
+msgid "Enable Qualifcation Tab"
+msgstr ""
+
+#: inc/Base/SettingsController.php:607
+msgid "Minimum No. Of Qualifcations Required to Apply"
+msgstr ""
+
+#: inc/Base/SettingsController.php:620
+msgid "Enable Achievement Tab"
+msgstr ""
+
+#: inc/Base/SettingsController.php:633
+msgid "Minimum No. Of Achievements Required to Apply"
+msgstr ""
+
+#: inc/Base/SettingsController.php:646
+msgid "Enable Language Tab"
+msgstr ""
+
+#: inc/Base/SettingsController.php:659
+msgid "Minimum No. Of Languages Required to Apply"
+msgstr ""
+
+#: inc/Base/SettingsController.php:672
+msgid "Enable Reference Tab"
+msgstr ""
+
+#: inc/Base/SettingsController.php:685
+msgid "Minimum No. Of References Required to Apply"
+msgstr ""
+
+#: inc/Base/SettingsController.php:700
+msgid "Other Login Page Url"
+msgstr ""
+
+#: inc/Base/SettingsController.php:700
+msgid ""
+"Enter link for any other login page. This can be the existing login page of "
+"your site from some other plugin. Or the link of page created from shortcode"
+msgstr ""
+
+#: inc/Base/SettingsController.php:713
+msgid "Logout redirect Page Url"
+msgstr ""
+
+#: inc/Base/SettingsController.php:713
+msgid "If empty, user will be redirected to the same page."
+msgstr ""
+
+#: inc/Base/SettingsController.php:726
+msgid "Default role for applicants"
+msgstr ""
+
+#: inc/Base/SettingsController.php:739
+msgid "Enable New User Register"
+msgstr ""
+
+#: inc/Base/SettingsController.php:739 inc/Base/SettingsController.php:752
+#: inc/Base/SettingsController.php:765 inc/Base/SettingsController.php:778
+#: inc/Base/SettingsController.php:791 inc/Base/SettingsController.php:804
+msgid "For built in Auth/login feature"
+msgstr ""
+
+#: inc/Base/SettingsController.php:752
+msgid "Enable Email Confirm on Registeration"
+msgstr ""
+
+#: inc/Base/SettingsController.php:765
+msgid "Enable Forgot Password"
+msgstr ""
+
+#: inc/Base/SettingsController.php:778
+msgid "Login Box Title"
+msgstr ""
+
+#: inc/Base/SettingsController.php:785
+msgid "eg. Login to Apply"
+msgstr ""
+
+#: inc/Base/SettingsController.php:791
+msgid "Register Box Title"
+msgstr ""
+
+#: inc/Base/SettingsController.php:798
+msgid "eg. Register to Apply"
+msgstr ""
+
+#: inc/Base/SettingsController.php:804
+msgid "Forgot Password Box Title"
+msgstr ""
+
+#: inc/Base/SettingsController.php:811
+msgid "eg. Enter email to get password reset link.."
+msgstr ""
+
+#: inc/Base/SettingsController.php:819
+msgid "Enable New User Email"
+msgstr ""
+
+#: inc/Base/SettingsController.php:832 inc/Base/SettingsController.php:845
+msgid "Enable New Job Application Email"
+msgstr ""
+
+#: inc/Base/SettingsController.php:832 inc/Base/SettingsController.php:871
+msgid "For Admin"
+msgstr ""
+
+#: inc/Base/SettingsController.php:845
+msgid "For User"
+msgstr ""
+
+#: inc/Base/SettingsController.php:858
+msgid "New User Subject"
+msgstr ""
+
+#: inc/Base/SettingsController.php:865
+msgid "eg. Wp Smart Recruit : A new user signed up"
+msgstr ""
+
+#: inc/Base/SettingsController.php:871 inc/Base/SettingsController.php:884
+msgid "New Application Subject"
+msgstr ""
+
+#: inc/Base/SettingsController.php:878
+msgid "eg. Wp Smart Recruit : New Job Application"
+msgstr ""
+
+#: inc/Base/SettingsController.php:884
+msgid "For User."
+msgstr ""
+
+#: inc/Base/SettingsController.php:891
+msgid "eg. Wp Smart Recruit : Your application is received"
+msgstr ""
+
+#: inc/Base/SettingsController.php:897
+msgid "New User Email Verification Subject"
+msgstr ""
+
+#: inc/Base/SettingsController.php:904
+msgid "eg. Wp Smart Recruit : Verify Your Email Address"
+msgstr ""
+
+#: inc/Base/SettingsController.php:910
+msgid "Forgot Password Subject"
+msgstr ""
+
+#: inc/Base/SettingsController.php:917
+msgid "eg. Wp Smart Recruit : Password Reset"
+msgstr ""
+
+#: inc/Base/SettingsController.php:923
+msgid "New User Email (For Admin)"
+msgstr ""
+
+#: inc/Base/SettingsController.php:923 inc/Base/SettingsController.php:936
+#: inc/Base/SettingsController.php:949 inc/Base/SettingsController.php:962
+#: inc/Base/SettingsController.php:975
+msgid "Words enclosed with"
+msgstr ""
+
+#: inc/Base/SettingsController.php:923 inc/Base/SettingsController.php:936
+#: inc/Base/SettingsController.php:949 inc/Base/SettingsController.php:962
+#: inc/Base/SettingsController.php:975
+msgid "are reserved."
+msgstr ""
+
+#: inc/Base/SettingsController.php:936
+msgid "New Job Application (For Admin)"
+msgstr ""
+
+#: inc/Base/SettingsController.php:949
+msgid "New Job Application (For User)"
+msgstr ""
+
+#: inc/Base/SettingsController.php:962
+msgid "Email Verification (For User)"
+msgstr ""
+
+#: inc/Base/SettingsController.php:975
+msgid "Email Forgot Password (For User)"
+msgstr ""
+
+#: inc/Base/SettingsController.php:1006
+msgid "File Not Writeable"
+msgstr ""
+
+#: inc/Base/SettingsController.php:1018
+msgid "CSS Updated"
+msgstr ""
+
+#: inc/Base/SettingsLinks.php:31
+msgid "Settings"
+msgstr ""
+
+#: inc/functions.php:73 inc/functions.php:81
+msgid " is required"
+msgstr ""
+
+#: inc/functions.php:91 inc/functions.php:99
+msgid " should be at least "
+msgstr ""
+
+#: inc/functions.php:91 inc/functions.php:99 inc/functions.php:109
+#: inc/functions.php:117
+msgid " characters"
+msgstr ""
+
+#: inc/functions.php:109 inc/functions.php:117
+msgid " can not be more than "
+msgstr ""
+
+#: inc/functions.php:127 inc/functions.php:135
+msgid " should be a valid number"
+msgstr ""
+
+#: inc/functions.php:145 inc/functions.php:153
+msgid " can only contain alphabets, numbers and spaces"
+msgstr ""
+
+#: inc/functions.php:163 inc/functions.php:171
+msgid " should be a valid email address"
+msgstr ""
+
+#: inc/functions.php:181 inc/functions.php:189
+msgid " should be a valid date"
+msgstr ""
+
+#: inc/functions.php:199 inc/functions.php:207 inc/functions.php:227
+#: inc/functions.php:247
+msgid " should match "
+msgstr ""
+
+#: inc/functions.php:218 inc/functions.php:238
+msgid " should be greater than "
+msgstr ""
+
+#: views/account-activated.php:1
+msgid "Congratulations! Your account is activated."
+msgstr ""
+
+#: views/account-activated.php:4
+msgid "Account Activated"
+msgstr ""
+
+#: views/account-activated.php:5
+msgid "Go to home page"
+msgstr ""
+
+#: views/admin/email-form.php:9
+msgid "Subject*"
+msgstr ""
+
+#: views/admin/email-form.php:11
+msgid "e.g. Interview Scheduled"
+msgstr ""
+
+#: views/admin/email-form.php:13
+msgid "Message*"
+msgstr ""
+
+#: views/admin/email-form.php:24
+msgid "will be replaced with applicant name and job title."
+msgstr ""
+
+#: views/admin/email-form.php:33 views/admin/interview-assign-form.php:17
+#: views/admin/interview-marking-form.php:38
+msgid "Notes (If Any)"
+msgstr ""
+
+#: views/admin/email-form.php:35 views/admin/interview-assign-form.php:18
+#: views/admin/interview-marking-form.php:40
+msgid "e.g. Shortlisted, Called for Interview etc"
+msgstr ""
+
+#: views/admin/email-form.php:36 views/admin/interview-assign-form.php:19
+#: views/admin/interview-marking-form.php:41
+msgid "Will update existing if entered."
+msgstr ""
+
+#: views/admin/email-form.php:45
+msgid "Send"
+msgstr ""
+
+#: views/admin/interview-assign-form.php:6
+msgid "Select Interview"
+msgstr ""
+
+#: views/admin/interview-assign-form.php:27
+msgid "Assign"
+msgstr ""
+
+#: views/admin/interview-marking-form.php:31
+msgid "Comments ..."
+msgstr ""
+
+#: views/admin/interview-marking-form.php:49 views/admin/notes-form.php:16
+#: views/forgot-form.php:19 views/partials/normal-apply-form.php:40
+msgid "Submit"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:2
+msgid "Job Fields Manager"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:11
+msgid "List"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:16
+msgid "Edit Field"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:16
+msgid "Add Field"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:29
+msgid "Shortcodes"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:32
+msgid "Show in menu"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:33
+msgid "Show in job list"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:34
+msgid "Status"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:35
+msgid "Actions"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:58 views/admin/job-fields-manager.php:61
+#: views/admin/job-fields-manager.php:64 views/admin/job-fields-manager.php:67
+msgid "Yes"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:58 views/admin/job-fields-manager.php:61
+#: views/admin/job-fields-manager.php:64 views/admin/job-fields-manager.php:67
+msgid "No"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:70
+msgid "Inactive"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:77
+msgid "Edit"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:87
+msgid ""
+"Are you sure, you want to delete this job field?. The data associated with "
+"it will not be deleted"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:96
+msgid "No Fields"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:100
+msgid ""
+"In shortcodes, replace value with the actual value of the particular job "
+"field being assigned in job create or edit. Replaced value will still be "
+"enclosed with inverted commas."
+msgstr ""
+
+#: views/admin/job-fields-manager.php:101
+msgid "e.g. [cwrm-job-list Departments=\"Information Technology\"]"
+msgstr ""
+
+#: views/admin/job-fields-manager.php:102
+msgid ""
+"Notes : Filters and pagination will not appear by using these shortcodes and "
+"will display all entries under the particular category/job field."
+msgstr ""
+
+#: views/admin/job-fields.php:14
+msgid "Last Date to Apply"
+msgstr ""
+
+#: views/admin/job-fields.php:20
+msgid "CC Email"
+msgstr ""
+
+#: views/admin/job-fields.php:23
+msgid "For additional application Notification for this particular job."
+msgstr ""
+
+#: views/admin/job-fields.php:27
+msgid "Application Type"
+msgstr ""
+
+#: views/admin/job-fields.php:30
+msgid "Disable"
+msgstr ""
+
+#: views/admin/job-fields.php:33
+msgid "Logged in"
+msgstr ""
+
+#: views/admin/job-fields.php:36
+msgid "Simple Form"
+msgstr ""
+
+#: views/admin/job-fields.php:37
+msgid ""
+"If no option is selected, global settings (General -> Enable Apply with "
+"Resume Only) will be used."
+msgstr ""
+
+#: views/admin/question-form.php:7
+msgid "e.g. Junior Position"
+msgstr ""
+
+#: views/admin/question-form.php:18
+msgid "Save"
+msgstr ""
+
+#: views/admin/question-items.php:8
+msgid "Select"
+msgstr ""
+
+#: views/admin/question-items.php:18
+msgid "No More Questions"
+msgstr ""
+
+#: views/admin/questions-list.php:5
+msgid "Are you sure"
+msgstr ""
+
+#: views/admin/questions-list.php:6 views/admin/questions-list.php:77
+#: views/jobs-list.php:66 views/partials/job-items.php:57
+msgid "Load More"
+msgstr ""
+
+#: views/admin/questions-list.php:7
+msgid "Loading"
+msgstr ""
+
+#: views/admin/questions-list.php:8
+msgid "No Question Found"
+msgstr ""
+
+#: views/admin/questions-list.php:9
+msgid "No more  questions"
+msgstr ""
+
+#: views/admin/questions-list.php:10
+msgid "Add Question"
+msgstr ""
+
+#: views/admin/questions-list.php:26
+msgid "Added"
+msgstr ""
+
+#: views/admin/questions-list.php:45 views/job-filters.php:8
+#: views/jobs-list.php:13
+msgid "Keywords e.g. marketing"
+msgstr ""
+
+#: views/admin/questions-list.php:53 views/job-filters.php:32
+#: views/jobs-list.php:37
+msgid "All"
+msgstr ""
+
+#: views/admin/questions-list.php:62 views/job-filters.php:45
+#: views/job-filters.php:46 views/jobs-list.php:50 views/jobs-list.php:51
+msgid "Search"
+msgstr ""
+
+#: views/admin/questions-list.php:64
+msgid "Create New Question"
+msgstr ""
+
+#: views/admin/questions-list.php:70
+msgid "Select to add and click update"
+msgstr ""
+
+#: views/admin/resume-pdf.php:30
+msgid "DOB"
+msgstr ""
+
+#: views/admin/resume-pdf.php:50
+msgid "Job Experiences"
+msgstr ""
+
+#: views/admin/resume-pdf.php:68
+msgid "There are no experiences"
+msgstr ""
+
+#: views/admin/resume-pdf.php:74
+msgid "Qualifications"
+msgstr ""
+
+#: views/admin/resume-pdf.php:88
+msgid "There are no qualifications"
+msgstr ""
+
+#: views/admin/resume-pdf.php:94
+msgid "Languages"
+msgstr ""
+
+#: views/admin/resume-pdf.php:104
+msgid "There are no languages"
+msgstr ""
+
+#: views/admin/resume-pdf.php:110
+msgid "Achievements"
+msgstr ""
+
+#: views/admin/resume-pdf.php:126
+msgid "There are no achievements"
+msgstr ""
+
+#: views/admin/resume-pdf.php:132 views/resume-form.php:28
+msgid "References"
+msgstr ""
+
+#: views/admin/resume-pdf.php:150
+msgid "There are no references"
+msgstr ""
+
+#: views/admin/settings.php:2
+msgid "Recruitment Manager Settings"
+msgstr ""
+
+#: views/admin/settings.php:10
+msgid "Short Codes"
+msgstr ""
+
+#: views/admin/settings.php:15
+msgid "General Options"
+msgstr ""
+
+#: views/admin/settings.php:25
+msgid "Resume Options"
+msgstr ""
+
+#: views/admin/settings.php:30
+msgid "Auth Options"
+msgstr ""
+
+#: views/admin/settings.php:35
+msgid "Email Messages"
+msgstr ""
+
+#: views/admin/settings.php:40
+msgid "CSS Overrides"
+msgstr ""
+
+#: views/admin/settings.php:52
+msgid "Job List Shortcodes"
+msgstr ""
+
+#: views/admin/settings.php:58
+msgid ""
+"Option 1 : Use it in a page when you need the job list to appear with "
+"filters above it."
+msgstr ""
+
+#: views/admin/settings.php:67
+msgid ""
+"Option 2 : Use it in a page when you need the job list to appear without "
+"filters above it."
+msgstr ""
+
+#: views/admin/settings.php:76
+msgid ""
+"Can be used with option 2 e.g. display filters in a sidebar. If used, it "
+"will remove filters from above the job list if any."
+msgstr ""
+
+#: views/admin/settings.php:77
+msgid ""
+"Note : If you are going to use filters in a sidebar then it's recommended to "
+"have a dedicated sidebar for your job list and job detail page or else the "
+"filters won't work on other pages."
+msgstr ""
+
+#: views/admin/settings.php:78
+msgid ""
+"Note : For category specific shortocde, use shortcodes from Job Fields Page."
+msgstr ""
+
+#: views/admin/settings.php:82
+msgid "Login Shortcode"
+msgstr ""
+
+#: views/admin/settings.php:89
+msgid ""
+"If you need to have a separate login/register page instead of having \"Login "
+"Form\" within the job detail page, then create a page e.g. Account and "
+"insert this code. Then you can just insert that page link/url in \"Other "
+"Login Page\" in Auth Options."
+msgstr ""
+
+#: views/admin/settings.php:98
+msgid "You can use it in sidebar for users to be able to logged out."
+msgstr ""
+
+#: views/admin/settings.php:102
+msgid "Resume Shortcode"
+msgstr ""
+
+#: views/admin/settings.php:108
+msgid ""
+"If you are using \"Login/Register\" mechanism via some other plugin, you "
+"might want to create a page for users to edit their resume. If so, you can "
+"create a page and insert this code, so that applicants can edit their resume "
+"on front end. Or if you already have a page created with above \"Login "
+"Shortcode\", then you dont need this as the \"Resume\" will appear for "
+"editing to the logged in users on the same page."
+msgstr ""
+
+#: views/admin/settings.php:111
+msgid "Job Applications Shortcode"
+msgstr ""
+
+#: views/admin/settings.php:118
+msgid ""
+"You can create a page and put this shortcode for logged in users to be able "
+"to view list of their earlier \"Job Applications\"."
+msgstr ""
+
+#: views/admin/settings.php:139
+msgid "Click to import Dummy Data"
+msgstr ""
+
+#: views/admin/settings.php:140
+msgid "Importing ...."
+msgstr ""
+
+#: views/admin/settings.php:141
+msgid "Imported"
+msgstr ""
+
+#: views/admin/settings.php:145
+msgid "Import Questions"
+msgstr ""
+
+#: views/admin/settings.php:149
+msgid "Import Jobs"
+msgstr ""
+
+#: views/admin/settings.php:153
+msgid "Import Applicants"
+msgstr ""
+
+#: views/admin/settings.php:235
+msgid "Updated"
+msgstr ""
+
+#: views/admin/settings.php:236
+msgid "Updating ...."
+msgstr ""
+
+#: views/admin/settings.php:242 views/resume-form.php:155
+#: views/resume-form.php:178 views/resume-form.php:206
+#: views/resume-form.php:234 views/resume-form.php:262
+#: views/resume-form.php:290
+msgid "Update"
+msgstr ""
+
+#: views/admin/settings.php:246
+msgid ""
+"This css will be loaded for any feature on front end. Any classes on front "
+"end like \".cwrm-detail-page-desc\" or \".cwrm-list-page-title\" can be "
+"overrided."
+msgstr ""
+
+#: views/admin/settings.php:248
+msgid "Note : You need to have some basic css knowledge."
+msgstr ""
+
+#: views/forgot-form.php:2 views/login-form.php:4 views/register-form.php:2
+#: views/resume-form.php:318
+msgid "Please Wait..."
+msgstr ""
+
+#: views/forgot-form.php:11 views/register-form.php:28 views/resume-form.php:59
+msgid "Enter Email"
+msgstr ""
+
+#: views/forgot-form.php:29 views/register-form.php:55
+msgid "Back to login"
+msgstr ""
+
+#: views/job-applications-list.php:18
+msgid "No Job Applications Found"
+msgstr ""
+
+#: views/job-filters.php:14 views/jobs-list.php:19
+msgid "Min Salary e.g. 5000"
+msgstr ""
+
+#: views/job-filters.php:18 views/jobs-list.php:23
+msgid "Max Salary e.g. 50000"
+msgstr ""
+
+#: views/job-filters.php:49 views/jobs-list.php:53
+msgid "Reset filters"
+msgstr ""
+
+#: views/job-filters.php:50 views/jobs-list.php:54
+msgid "Reset Filters"
+msgstr ""
+
+#: views/jobs-list.php:74
+msgid "No More Jobs"
+msgstr ""
+
+#: views/jobs-list.php:75 views/single-content.php:112
+msgid "Searching..."
+msgstr ""
+
+#: views/login-form.php:25 views/single-content.php:80
+msgid "Login"
+msgstr ""
+
+#: views/login-form.php:40 views/register-form.php:45
+msgid "Register"
+msgstr ""
+
+#: views/login-form.php:51
+msgid "Forgot Password"
+msgstr ""
+
+#: views/partials/normal-apply-form.php:13
+msgid "Your Name"
+msgstr ""
+
+#: views/partials/normal-apply-form.php:18
+msgid "Your Email"
+msgstr ""
+
+#: views/partials/normal-apply-form.php:23
+msgid "Your Contact #"
+msgstr ""
+
+#: views/partials/normal-apply-form.php:29
+msgid "Your Message"
+msgstr ""
+
+#: views/partials/normal-apply-form.php:32
+msgid "Attachment"
+msgstr ""
+
+#: views/partials/normal-apply-form.php:33 views/resume-form.php:136
+#: views/resume-form.php:146
+msgid "Select File"
+msgstr ""
+
+#: views/partials/resume-achievement.php:17
+msgid "Title*"
+msgstr ""
+
+#: views/partials/resume-achievement.php:18
+#: views/partials/resume-reference.php:18
+msgid "Enter Title"
+msgstr ""
+
+#: views/partials/resume-achievement.php:22
+msgid "Type*"
+msgstr ""
+
+#: views/partials/resume-achievement.php:23
+msgid "Enter Type"
+msgstr ""
+
+#: views/partials/resume-achievement.php:33
+msgid "Enter Description"
+msgstr ""
+
+#: views/partials/resume-achievement.php:39
+#: views/partials/resume-experience.php:55
+#: views/partials/resume-language.php:30
+#: views/partials/resume-qualification.php:56
+#: views/partials/resume-reference.php:39 views/resume-form.php:319
+msgid "Click \"Add More\" to add new section"
+msgstr ""
+
+#: views/partials/resume-apply-form.php:11
+msgid "Apply"
+msgstr ""
+
+#: views/partials/resume-apply-form.php:24 views/resume-form.php:309
+msgid "Logout"
+msgstr ""
+
+#: views/partials/resume-experience.php:13
+#: views/partials/resume-language.php:13
+#: views/partials/resume-qualification.php:13
+#: views/partials/resume-reference.php:13
+msgid "Remove Section"
+msgstr ""
+
+#: views/partials/resume-experience.php:17
+msgid "Job Title"
+msgstr ""
+
+#: views/partials/resume-experience.php:19
+msgid "Enter Job Title"
+msgstr ""
+
+#: views/partials/resume-experience.php:25
+msgid "Enter Company"
+msgstr ""
+
+#: views/partials/resume-experience.php:31
+msgid "Enter Salary"
+msgstr ""
+
+#: views/partials/resume-experience.php:37
+#: views/partials/resume-qualification.php:44
+msgid "Enter From"
+msgstr ""
+
+#: views/partials/resume-experience.php:43
+#: views/partials/resume-qualification.php:50
+msgid "Enter To"
+msgstr ""
+
+#: views/partials/resume-experience.php:47
+msgid "Job Description"
+msgstr ""
+
+#: views/partials/resume-experience.php:49
+msgid "Enter Job Description"
+msgstr ""
+
+#: views/partials/resume-language.php:19
+msgid "Enter Language Name"
+msgstr ""
+
+#: views/partials/resume-language.php:24
+msgid "Enter Proficiency"
+msgstr ""
+
+#: views/partials/resume-qualification.php:18
+msgid "Degree Title"
+msgstr ""
+
+#: views/partials/resume-qualification.php:20
+msgid "Enter Degree Title"
+msgstr ""
+
+#: views/partials/resume-qualification.php:26
+msgid "Enter Institution"
+msgstr ""
+
+#: views/partials/resume-qualification.php:32
+msgid "Enter Percentage / CGPA / Marks"
+msgstr ""
+
+#: views/partials/resume-qualification.php:36
+msgid "Out Of"
+msgstr ""
+
+#: views/partials/resume-reference.php:22
+msgid "Relation"
+msgstr ""
+
+#: views/partials/resume-reference.php:23
+msgid "Enter Relation"
+msgstr ""
+
+#: views/partials/resume-reference.php:27
+msgid "Organization"
+msgstr ""
+
+#: views/partials/resume-reference.php:28
+msgid "Enter Organization"
+msgstr ""
+
+#: views/partials/resume-reference.php:33
+msgid "Enter Contact"
+msgstr ""
+
+#: views/register-form.php:11
+msgid "First Name*"
+msgstr ""
+
+#: views/register-form.php:13 views/register-form.php:18
+#: views/resume-form.php:42 views/resume-form.php:48
+msgid "Enter Name"
+msgstr ""
+
+#: views/register-form.php:16
+msgid "Last Name*"
+msgstr ""
+
+#: views/register-form.php:21
+msgid "Username*"
+msgstr ""
+
+#: views/register-form.php:23 views/resume-form.php:54
+msgid "Enter Username"
+msgstr ""
+
+#: views/register-form.php:26
+msgid "Email*"
+msgstr ""
+
+#: views/register-form.php:31
+msgid "Password*"
+msgstr ""
+
+#: views/register-form.php:33 views/resume-form.php:65
+msgid "Enter Password"
+msgstr ""
+
+#: views/register-form.php:36
+msgid "Retype Password*"
+msgstr ""
+
+#: views/reset-form.php:6 views/reset-form.php:27
+msgid "Reset Password"
+msgstr ""
+
+#: views/reset-form.php:9
+msgid "Enter New Password"
+msgstr ""
+
+#: views/resume-form.php:4
+msgid "Profile"
+msgstr ""
+
+#: views/resume-form.php:70
+msgid "Enter Phone"
+msgstr ""
+
+#: views/resume-form.php:75
+msgid "Identity #"
+msgstr ""
+
+#: views/resume-form.php:76
+msgid "Enter Identity #"
+msgstr ""
+
+#: views/resume-form.php:82
+msgid "Enter Address"
+msgstr ""
+
+#: views/resume-form.php:88
+msgid "Enter City"
+msgstr ""
+
+#: views/resume-form.php:94
+msgid "Enter State"
+msgstr ""
+
+#: views/resume-form.php:100
+msgid "Enter Country"
+msgstr ""
+
+#: views/resume-form.php:106
+msgid "Enter DOB"
+msgstr ""
+
+#: views/resume-form.php:114
+msgid "Male"
+msgstr ""
+
+#: views/resume-form.php:117
+msgid "Female"
+msgstr ""
+
+#: views/resume-form.php:120
+msgid "Other"
+msgstr ""
+
+#: views/resume-form.php:126
+msgid "Enter Short Bio"
+msgstr ""
+
+#: views/resume-form.php:135
+msgid "Resume / CV"
+msgstr ""
+
+#: views/resume-form.php:145
+msgid "Avatar"
+msgstr ""
+
+#: views/resume-form.php:180 views/resume-form.php:208
+#: views/resume-form.php:236 views/resume-form.php:264
+#: views/resume-form.php:292
+msgid "Add Section"
+msgstr ""
+
+#: views/resume-form.php:314
+msgid "Download Resume"
+msgstr ""

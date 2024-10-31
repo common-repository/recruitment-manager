@@ -1,0 +1,9 @@
+.cwrm-normal-apply-form {font-family: inherit; border: 1px solid #eaeaea;	padding: 20px;}
+.cwrm-normal-apply-form label {display: block; font-weight: bold;}
+.cwrm-field-container {margin-bottom: 20px;}
+.cwrm-field-input {width: 100%;	background: #fafafa;}
+.cwrm-errors-container {text-align: left; color:red;}
+.cwrm-success-container {text-align: left; color:green;}
+.cwrm-dp-item {display: inline-block; padding: 4px; color: #6d6d6d; border-radius: 3px; margin-bottom: 10px;
+font-size: 12px; background: #f9f9f9; border: 1px solid #f3f3f3; font-weight: bold; }
+.cwrm-hello-msg {background: #f9f9f9; border: 1px solid #f3f3f3; padding: 10px; margin: 15px 0px;}

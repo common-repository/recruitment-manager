@@ -1,0 +1,41 @@
+.cwrm-jobs-list-container {overflow: auto;}
+.cwrm-filters-container {width: 100%; margin-top: 10px; overflow: auto;}
+.cwrm-filters-item {float: left;}
+.cwrm-filters-item .option {border-bottom: 1px solid #eaeaec;}
+.cwrm-filters-item {font-family: inherit; color: #555; float: left; margin-right: 10px;}
+.cwrm-filters-item .title {display: inline-block; cursor: pointer; background: #fff; border: 1px solid #eaeaec; 
+border-radius: 5px; padding: 5px 10px 5px 12px; font-size: 14px; font-weight: bold; background: #fafafa;}
+.cwrm-filters-item .title::after {display: inline-block; content: '>'; margin-left: 15px; font-size: 11px;
+transform: rotate(90deg) scale(1, 2);}
+.cwrm-filters-item .title:hover {background: #eaeaec;}
+.cwrm-filters-item .select-options {display: none; position: absolute; z-index: 500; border: 1px solid #eaeaec;
+background: #fff;}
+.cwrm-filters-item .select-options .option label {display: inline-block; padding: 5px 30px 0px 8px;
+font-size: 14px; margin-left: 0px; font-weight: bold; cursor: pointer;}
+.cwrm-filters-item .select-options .option:hover {background: #eaeaec;}
+.cwrm-filters-item .select-options .option input {margin: 10px 0px 0px 20px;}
+.cwrm-jobs-container {clear: both; padding: 0px 10px 0px 0px;}
+.cwrm-jobs-item {background: white; overflow: auto; padding: 10px; margin: 10px 0px; border-bottom: 2px solid #eaeaec;}
+.cwrm-jobs-item h6 {padding: 0px; margin: 0px; font-size: 20px;}
+.cwrm-jobs-item p {padding: 0px; margin: 0px; line-height: 1.5; font-size: 16px;}
+.cwrm-top-search-box {display: inline-block; float: left; width: 150px; height: 37px; border-radius: 5px !important;
+border: 1px solid #eaeaec !important; margin: 1px 8px 5px 0px; font-family: inherit; background: #fafafa;}
+.cwrm-top-job-filter-dd {float:left; width: 150px; height: 38px; padding: 5px; border-radius: 5px; margin-bottom: 5px;
+background: #fafafa; border: 1px solid #eaeaec; color: #757575; margin-right: 9px;}
+.cwrm-side-search-box {display: inline-block; float: left; width: 95%; height: 37px; border-radius: 5px !important;
+border: 1px solid #eaeaec !important; margin-bottom: 4px !important; font-family: inherit; background: #fafafa;}
+.cwrm-side-job-filter-dd {float:left; width: 95%; height: 38px; padding: 5px; border-radius: 5px; margin-bottom: 5px;
+background: #fafafa; border: 1px solid #eaeaec; color: #757575; margin-right: 9px;}
+.cwrm-pagination-container {text-align: center; display: block;	width: 100%; margin-top: 10px;}
+.cwrm-reset-filters-side {float: left; margin-left: 5px;}
+.cwrm-filters-btn-side {float: left;}
+.cwrm-single-jobs-list-container {margin-top: -25px;}
+.cwrm-filter-field-container {}
+.cwrm-filters-main .btn-search {float: left; display: block; clear: left;}
+.cwrm-filters-main .btn-reset {float: left; display: block; margin-left: 5px; margin-bottom: 10px;}
+.cwrm-filters-side {overflow: auto; margin-bottom: 20px;}
+.cwrm-list-page-title a {color:inherit;}
+.cwrm-lp-item {display: inline-block; padding: 4px; color: #6d6d6d; border-radius: 3px; margin-bottom: 10px; font-size: 12px;
+background: #f9f9f9; border: 1px solid #f3f3f3; font-weight: bold;}
+.cwrm-list-page-desc {margin-bottom: 10px;}
+.cwrm-hello-msg {background: #f9f9f9; border: 1px solid #f3f3f3; padding: 10px; margin: 15px 0px;}
